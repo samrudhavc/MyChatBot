@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+venv/
+chatnot-env/
+
+# VSCode or PyCharm files
+.vscode/
+.idea/
+
+# Dataset or model outputs
+*.log
+*.ckpt
+*.pt
+*.bin
+*.jsonl
+tokenized_data/
+gpt2-chatbot/

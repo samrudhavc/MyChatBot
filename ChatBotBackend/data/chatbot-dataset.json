@@ -1,0 +1,3 @@
+{"prompt": "What is FastAPI?", "completion": "FastAPI is a modern, fast web framework for building APIs with Python 3.6+."}
+{"prompt": "How do I install FastAPI?", "completion": "You can install FastAPI using pip:\n\n```\npip install fastapi\npip install uvicorn\n```"}
+{"prompt": "What is the use of Pydantic in FastAPI?", "completion": "Pydantic is used for data validation and serialization in FastAPI."}
